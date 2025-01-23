@@ -8,7 +8,7 @@
 - 想规划资金用途的人，可以用来总结银行动帐短信中的数据变化
 
 技术选型：
-* 为了实现移动端跨平台且有较好的图形化展示api，项目基础语言暂定react native，图形展示api使用[蚂蚁金服的F2](https://github.com/antvis/F2)（未来也可以更好的扩展到微信小程序）
+* 为了实现移动端跨平台且有较好的图形化展示api，项目基础语言暂定Dart，图形展示api使用[fl_chart]([https://github.com/antvis/F2](https://github.com/imaNNeo/fl_chart))
 
 基于不同来源的数据内容做图形化展示：
 - 短信
